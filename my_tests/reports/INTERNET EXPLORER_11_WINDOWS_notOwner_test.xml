@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="notOwner_test"
+    errors="1" failures="0" hostname="" id="" package="notOwner_test" skipped="0"
+    tests="1" time="35.92" timestamp="Tue, 26 May 2015 18:54:51 GMT">
+  
+    <testcase name="Navigate to a model with a different owner" time="35.92" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+        Unable to locate element: &quot;span[data-hook=&#39;user.full_name&#39;]&quot; using: css selector
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>
